@@ -1,0 +1,69 @@
+body {
+  background-color: #282c34;
+
+}
+
+.App {
+  text-align: center;
+}
+
+
+.App-logo-react {
+  height: 40vmin;
+}
+
+.App-logo-heroku {
+  padding: 30px;
+  height:300px;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.Profile {
+  background-color: #a19999;
+  margin: auto;
+  padding: 50px;
+
+  /* vertical-align: center; */
+  /* height: 300px; */
+}
+
+div.row {
+  height: 456px;
+}
+
+.Profile-avatar {
+  margin: auto;
+}
+
+.Profile-info {
+  margin: auto;
+  text-align: left;
+}
+
+.profile-card .profile-picture {
+  width: 7.4rem;
+}
+
+.profile-card .social-section {
+  margin-top: 2rem;
+}
+
+.profile-card .social-section a {
+  font-size: 1.3rem;
+  padding: .2rem .6rem;
+}
